@@ -1,6 +1,6 @@
 testSeed = "x help monkey escape help monkey escape help monkey escape help monkey"
 
-printAllWords = 1; #--> this can be 0 or 1
+printAllWords = 1 #--> this can be 0 or 1
 
 
 # modded version of HeptaSean's original bip39 bruteforce script:
